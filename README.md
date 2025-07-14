@@ -40,21 +40,6 @@ Throughout my career, I’ve worked on multiple exciting projects across domains
 
 ---
 
-### 💡 Fun Fact
-I love turning complex requirements into simple, scalable automation logic — and saving release cycles ⏱️ through powerful CI pipelines!  
-
----
-
-### 📫 Let's Connect!
-Feel free to explore my GitHub repos, check my test automation projects, or drop me a message. I'm open to **collaborations**, **open-source contributions**, or **exciting QA roles** anywhere in the world 🌍.
-
----
-
-[![GitHub Followers](https://img.shields.io/github/followers/arsalan243?label=Follow&style=social)](https://github.com/arsalsid/Muhammad-Arsalan-Github)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arsalan-204632149/)
-[![Email](https://img.shields.io/badge/Email-muhammad.arsalan2712@gmail.com-red?logo=gmail&logoColor=white)](mailto:muhammad.arsalan2712@gmail.com)
-
----
 ## 🛠️ Tech Stack & Tools
 
 ### 🔹 **Languages & Frameworks**
@@ -88,6 +73,26 @@ Feel free to explore my GitHub repos, check my test automation projects, or drop
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile-EC1C24?logo=scrumalliance&logoColor=white)
+
+---
+
+### 💡 Fun Fact
+I love turning complex requirements into simple, scalable automation logic — and saving release cycles ⏱️ through powerful CI pipelines!  
+
+---
+
+### 📫 Let's Connect!
+Feel free to explore my GitHub repos, check my test automation projects, or drop me a message. I'm open to **collaborations**, **open-source contributions**, or **exciting QA roles** anywhere in the world 🌍.
+
+---
+
+[![GitHub Followers](https://img.shields.io/github/followers/arsalan243?label=Follow&style=social)](https://github.com/arsalsid/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arsalan-204632149/)
+[![Email](https://img.shields.io/badge/Email-muhammad.arsalan2712@gmail.com-red?logo=gmail&logoColor=white)](mailto:muhammad.arsalan2712@gmail.com)
+
+---
+
+💬 _“Quality is never an accident. It is always the result of intelligent effort.”_ – John Ruskin
 
 
 
