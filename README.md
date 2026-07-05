@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Muhammad Arsalan!
 
-I'm a passionate **Senior QA Automation Engineer** from Pakistan with **6+ years** of hands-on experience in **Manual + Automation Testing** and **DevOps CI/CD** practices.  
+I'm a passionate **Senior QA Automation Engineer** from Pakistan with **7+ years** of hands-on experience in **Manual + Automation Testing** and **DevOps CI/CD** practices.  
 
 Throughout my career, I’ve worked on multiple exciting projects across domains — building robust test frameworks and ensuring high product quality from concept to release. 🚀  
 
@@ -14,6 +14,13 @@ Throughout my career, I’ve worked on multiple exciting projects across domains
 - 🔌 Build solid test suites for **REST APIs** with Postman, Swagger & Rest Assured
 - 📱 Mobile Automation with **Appium** across Android & iOS
 - ☁️ Experience with **cloud testing tools** like BrowserStack
+
+### 📂 My GitHub Repositories
+
+- [**Fullstack Playwright Automation Framework**](https://github.com/arsalsid/Fullstack_playwright__automation)
+- [**Fullstack Selenium Automation Framework**](https://github.com/arsalsid/Fullstack_selenium__automation_framework)
+- [**Fullstack Performance Test Suite**](https://github.com/arsalsid/Fullstack_Performance_Test_Suite)
+
 
 
 ---
