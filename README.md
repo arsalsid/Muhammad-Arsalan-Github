@@ -43,7 +43,7 @@ Throughout my career, I’ve worked on multiple exciting projects across domains
 `Jenkins` · `GitHub Actions` · `Azure DevOps` · `GitLab` · `Docker` · `Maven` · `Gradle`
 
 **🧠 Project & Code Management:**  
-`JIRA` · `Confluence` · `Agile/Scrum` · `Git` · `GitHub` · `GitHub Actions` · `VSCode` · `IntelliJ IDEA`
+`JIRA` · `Confluence` · `Agile/Scrum` · `Git` · `GitHub` · `VSCode` · `IntelliJ IDEA`
 
 ---
 
