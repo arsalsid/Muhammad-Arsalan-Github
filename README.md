@@ -43,7 +43,7 @@ Throughout my career, I’ve worked on multiple exciting projects across domains
 `Jenkins` · `GitHub Actions` · `Azure DevOps` · `GitLab` · `Docker` · `Maven` · `Gradle`
 
 **🧠 Project & Code Management:**  
-`JIRA` · `Confluence` · `Agile/Scrum` · `Git` · `GitHub` · `VSCode` · `IntelliJ IDEA`
+`JIRA` · `Confluence` · `Agile/Scrum` · `Git` · `GitHub` · `GitHub Actions` · `VSCode` · `IntelliJ IDEA`
 
 ---
 
@@ -93,7 +93,7 @@ Feel free to explore my GitHub repos, check my test automation projects, or drop
 
 ---
 
-[![GitHub Followers](https://img.shields.io/github/followers/arsalan243?label=Follow&style=social)](https://github.com/arsalsid/)
+[![GitHub Followers](https://img.shields.io/github/followers/arsalan243?label=Follow&style=social)](https://github.com/arsalsid/Muhammad-Arsalan-Github)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-arsalan-204632149/)
 [![Email](https://img.shields.io/badge/Email-muhammad.arsalan2712@gmail.com-red?logo=gmail&logoColor=white)](mailto:muhammad.arsalan2712@gmail.com)
 
