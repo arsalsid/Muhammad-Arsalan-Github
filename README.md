@@ -19,7 +19,9 @@ Throughout my career, I’ve worked on multiple exciting projects across domains
 
 - [**Fullstack Playwright Automation Framework**](https://github.com/arsalsid/Fullstack_playwright__automation)
 - [**Fullstack Selenium Automation Framework**](https://github.com/arsalsid/Fullstack_selenium__automation_framework)
+- [**Fullstack Cypress Automation Framework**](https://github.com/arsalsid/cypress-e2e-framework)
 - [**Fullstack Performance Test Suite**](https://github.com/arsalsid/Fullstack_Performance_Test_Suite)
+
 
 
 
